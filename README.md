@@ -65,18 +65,31 @@ This project implements a deep learning-based image classifier using the VGG16 a
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
 
-## Outcomes
+## Outcomes:
+
+**Layout:**
+
+![Screenshot (90)](https://github.com/Bhudil/Instruments_Classifier/assets/99169324/ddfe9bf5-7548-4a49-a0f1-66bd5c01d57c)
+
 
 **Use-case 1:**
+
+![Screenshot (86)](https://github.com/Bhudil/Instruments_Classifier/assets/99169324/79c2bd35-9411-44a4-b64d-2735dc2521e8)
 
 
 **Use-case 2:**
 
+![Screenshot (87)](https://github.com/Bhudil/Instruments_Classifier/assets/99169324/2bd7a5c3-4b28-4a87-a9bd-75fe32941f0e)
+
 
 **Use-case 3:**
 
+![Screenshot (88)](https://github.com/Bhudil/Instruments_Classifier/assets/99169324/814cb9a6-2f1a-46c9-aa73-d8800c1b12c6)
+
 
 **Use-case 4:**
+
+![Screenshot (89)](https://github.com/Bhudil/Instruments_Classifier/assets/99169324/c2164bfe-5ba6-4db6-a4b6-44521066c6e9)
 
 
 ---
